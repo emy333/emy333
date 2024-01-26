@@ -1,9 +1,7 @@
 ### <h1>Olá, sou Emelly Freitas 😘</h1>
 
 - 👩🏽‍💻 Desenvolvedora Full Stack
-- 📘 Estudando NodeJS
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas - UNIFOR
-- ✉ Contate-me no email: emellysilva1000@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eme-Js" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
