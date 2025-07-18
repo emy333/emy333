@@ -1,7 +1,7 @@
 <h1 align="left">Olá, sou Emelly Freitas 😘</h1>
 
 👩🏽‍💻 Desenvolvedora Full Stack  
-💡 Apaixonada por tecnologia, código limpo e resolver problemas com criatividade
+💡 Apaixonada por tecnologia
 
 ---
 
