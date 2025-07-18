@@ -18,8 +18,9 @@
 
 ### ✉️ Contato
 
-📧 emellysilva1000@gmail.com 
-💼 [LinkedIn](www.linkedin.com/in/emellyfs)
+- 📧 emellysilva1000@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emellyfs)
+
 
 ---
 
