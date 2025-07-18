@@ -1,7 +1,6 @@
 ### <h1>Olá, sou Emelly Freitas 😘</h1>
 
 - 👩🏽‍💻 Desenvolvedora Full Stack
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas - UNIFOR
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eme-Js" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
